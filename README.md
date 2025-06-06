@@ -1,87 +1,82 @@
 <h1 align="center">Hi 👋, I'm Francisco Javier Luna Reyes</h1>
-<h3 align="center">An AI-focused Developer with a Passion for Problem Solving and Technology</h3>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=utm23090778" alt="utm23090778" />
-  </a> 
-</p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/utm23090778](https://github.com/utm23090778)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Python**
-
-- 📫 Contact me:
-  - **Professional:** franciscojavierlunareyes4@gmail.com  
-  - **Personal:** cceettqq1@gmail.com
-
-- ⚡ Fun fact: **I have a strong interest in repairing and troubleshooting electronic devices and software applications.**
+<h3 align="center">AI-Oriented Developer | Tech Enthusiast | Problem Solver</h3>
 
 ---
 
-### 💼 About Me
+### 🚀 Projects & Technologies
 
-I am a committed and results-oriented developer with a background in Artificial Intelligence and Programming. I enjoy working on multidisciplinary projects, especially those involving cybersecurity, testing, and optimization.
-
-With solid communication skills and a technical mindset, I have hands-on experience in:
-- Programming languages focused on AI and systems optimization
-- Administrative software like Aspel Caja, Aspel SAE, and basic Contpaqi
-- Network and server maintenance
+- 👨‍💻 Explore all my projects on GitHub: [github.com/utm23090778](https://github.com/utm23090778)  
+- 💬 Feel free to ask me about: **HTML, CSS, JavaScript, React, Python**  
+- 📫 **Contact Me:**  
+  - Professional: **franciscojavierlunareyes4@gmail.com**  
+  - Personal: **cceettqq1@gmail.com**  
+- ⚡ **Fun Fact:** I love disassembling and fixing electronic devices and software — it's my favorite way to learn!
 
 ---
 
-### 📚 Education
+### 🧠 About Me
 
-- **Higher University Technician in Artificial Intelligence (TSU)**  
-  *Technological Metropolitan University of Aguascalientes* (2023 - 2025)  
-- **Technical Degree in Programming**  
+I'm a highly motivated developer with a strong foundation in **Artificial Intelligence and Programming**, and a passion for cybersecurity, optimization, and systems testing.
+
+I bring to the table:
+- Experience with AI-driven programming and optimization algorithms  
+- Proficiency in administrative software like **Aspel Caja**, **SAE**, and **Contpaqi**  
+- Practical knowledge in **network and server maintenance**  
+- A hands-on mindset and curiosity that drives constant learning  
+
+---
+
+### 🎓 Education
+
+- 🎓 **Higher University Technician in Artificial Intelligence (TSU)**  
+  *Technological Metropolitan University of Aguascalientes* (2023 – 2025)  
+
+- 💻 **Technical Degree in Programming**  
   *CBTis 168 Colinas del Río*
 
 ---
 
-### 🏆 Hackathon Participation
+### 💡 Hackathon Experience
 
-- 💡 **Hidrotalent Hackathon** – AI solutions for water management  
-- 🌾 **Agroinnovation Hackathon** – Tech solutions for agriculture  
-- 🚴 **Hydromobility Hackathon** – Sustainable transportation innovation  
-- 🛡️ **Cybersecurity Hackathon** – Security-focused development  
-- ⚙️ **Venadotech Hackathon** – General-purpose technical innovation  
-
----
-
-### 💼 Work Experience
-
-**Candy Store Chain (Shugar Shugar, La Cereza, Dulcería Atilano)**  
-*Eventual – 2018 to Present*  
-- Development and planning of new store branches  
-- Support and maintenance of terminals, servers, and databases  
-- Mini app development for internal use  
-- Maintenance of applications such as Aspel Caja and SAE  
-- Network and systems administration  
+- 💧 **Hidrotalent Hackathon** – AI for water solutions  
+- 🌿 **Agroinnovation Hackathon** – Agricultural tech solutions  
+- 🛴 **Hydromobility Hackathon** – Sustainable mobility innovation  
+- 🛡️ **Cybersecurity Hackathon** – Building secure digital environments  
+- 🔧 **Venadotech Hackathon** – Engineering and automation ideas  
 
 ---
 
-### 🌱 Currently Learning
-- Deepening knowledge in Artificial Intelligence and Machine Learning  
-- Advanced React Native and Expo development  
-- Cybersecurity fundamentals  
+### 🧰 Work Experience
+
+**IT & Systems Support – Candy Store Chain (Shugar Shugar, La Cereza, Dulcería Atilano)**  
+*2018 – Present*  
+- Planned and launched new retail branches  
+- Provided technical support for servers, terminals, and databases  
+- Developed internal tools and mini applications  
+- Managed and maintained business software (Aspel Caja, SAE)  
+- Oversaw network infrastructure and system updates  
+
+---
+
+### 📈 Currently Learning
+
+- 🤖 Advanced **Artificial Intelligence & Machine Learning** techniques  
+- 📱 Cross-platform development with **React Native** and **Expo**  
+- 🔐 Cybersecurity and digital forensics fundamentals  
 
 ---
 
 ### 🌐 Connect with Me
 
-<a href="https://linkedin.com/in/francisco-javier-luna-reyes-00076b366" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+<a href="https://linkedin.com/in/francisco-javier-luna-reyes-00076b366" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 
 ---
 
-### 🛠️ Languages and Tools
+### ⚙️ Languages & Tools
 
-<p align="left">
-  <!-- Puedes mantener la sección de íconos tal como la tienes, sin cambios -->
-  <!-- Iconos ya incluidos correctamente -->
-</p>
+<!-- Aquí puedes mantener tu sección original con todos los íconos de herramientas -->
 
 ---
 
